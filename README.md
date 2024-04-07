@@ -1,4 +1,7 @@
 # Colored Console
+
+> This is updated version of the [original work](https://github.com/marcelmatula/colored-console). It complies with KMP and has the upgraded gradle project structure as for early 2024.
+
 Kotlin DSL ANSI Output Colored Console
 
 #### How to use it
